@@ -7,7 +7,8 @@ spring:
 #  config配置
   cloud:
     config:
-
+      username: 1006556989@qq.com
+      password:
       label: master
       server:
         git:
