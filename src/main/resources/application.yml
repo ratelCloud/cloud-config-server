@@ -13,7 +13,7 @@ spring:
       server:
         git:
           uri: https://github.com/ratelCloud/cloud-config.git
-        search-paths: /**
+          searchPaths: /**
 
 
 #eureka客户端配置
